@@ -1,5 +1,4 @@
 - 👋 Olá. eu sou o Crystarium
-- 👀 Estou de olho no futuro!
-- 🌱 Seu conhecimento a partir dos meus projetos é bem vindo
+- 🌱 Seu conhecimento é bem vindo
 - 💞️ Colaborando com a comunidade
 - 📫 Feedback é sempre bem vindo!
