@@ -1,4 +1,4 @@
-- 👋 Olá. eu sou o Crystarium
-- 🌱 Seu conhecimento é bem vindo
-- 💞️ Colaborando com a comunidade
-- 📫 Feedback é sempre bem vindo!
+# - Welcome to vule !
+*- 🌱 Seu conhecimento é bem vindo
+*- 💞️ Colaborando com a comunidade
+*- 📫 Feedback é sempre bem vindo!
